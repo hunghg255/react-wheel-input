@@ -1,0 +1,13 @@
+body {
+  padding: 50px 10px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.app {
+  max-width: 600px;
+  margin: auto;
+}
